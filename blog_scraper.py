@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup as soup
 from urllib.request import Request, urlopen
 import os
-import shutil
 
 def scrape_and_save(choosen_blog_link,Title,save_in_folders=False,page_no=None):
     req = Request(choosen_blog_link, 
@@ -24,14 +23,14 @@ def scrape_and_save(choosen_blog_link,Title,save_in_folders=False,page_no=None):
     except:
         pass
     if save_in_folders==False and page_no==None:
-        with open(f"blog texts/{Title}.doc",'w',encoding="utf-8") as fp:
+        with open(f"scraped blogs/{Title}.doc",'w',encoding="utf-8") as fp:
             fp.writelines(blog_content_string)
     else:
         try:
-            os.mkdir(f"blog texts/Page-{page_no}") 
+            os.mkdir(f"scraped blogs/Page-{page_no}") 
         except:
             pass
-        with open(f"blog texts/Page-{page_no}/{Title}.doc",'w',encoding="utf-8") as fp:
+        with open(f"scraped blogs/Page-{page_no}/{Title}.doc",'w',encoding="utf-8") as fp:
             fp.writelines(blog_content_string)
 
     return

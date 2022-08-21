@@ -1,4 +1,3 @@
-from audioop import mul
 from bs4 import BeautifulSoup as soup
 from urllib.request import Request, urlopen
 import re
@@ -84,7 +83,7 @@ def driver(page=None,blog=None,scrape_all=False,random=False,multipage=False):
         
 if __name__=='__main__':
     try:
-        shutil.rmtree("blog texts/")
+        shutil.rmtree("scraped blogs/")
     except:
         pass
     driver(page=[5,9],scrape_all=True)
