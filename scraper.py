@@ -87,4 +87,4 @@ if __name__=='__main__':
         shutil.rmtree("blog texts/")
     except:
         pass
-    driver(page=[5,9],scrape_all=True,multipage=True)
+    driver(page=[5,9],scrape_all=True)
