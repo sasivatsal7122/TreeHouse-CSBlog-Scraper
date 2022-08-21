@@ -1,0 +1,24 @@
+Title: Presenting Two New JavaScript Courses
+
+
+
+We’re excited to announce the launch of two new courses, JavaScript and the DOM and Interacting with the DOM. Students will bring web pages to life using the power of JavaScript, one of the essential tools for creating fun, interactive, and functional websites and applications.
+JavaScript and the DOM
+
+The DOM is an object-based representation of a web page with built-in properties and methods, which you can read and modify with JavaScript. It’s what allows developers to program a web page using JavaScript. 
+In the course JavaScript and the DOM, students learn essential concepts and tools to make web pages interactive with JavaScript, separating interactivity into distinct actions:
+Selecting elements on the pageManipulating the elementsListening for user actions (or events)
+
+Students write JavaScript to build a daily task app and make it interactive. They’ll program alongside the instructor adding new tasks, removing specific tasks, and showing and hiding the task list.
+Interacting with the DOM
+
+There is more to learn about making web pages dynamic and interactive with JavaScript and the DOM. One of the strengths of JavaScript is its ability to handle user interaction. In the course Interacting with the DOM, instructor Reggie Williams guides students in writing JavaScript to listen for different events (or user actions) and make changes to the DOM when they occur.
+
+Students continue programming the task list app throughout the course while learning convenient ways to access elements in the DOM and how to get around (or traverse) the DOM based on the relationships between elements.
+JavaScript Courses with Treehouse
+Treehouse offers dozens of JavaScript courses that include video instruction, code challenges, quizzes, and more. You can take the Treehouse courses for free with a seven day free trial. Then, dive into more UX, HTML, Python, and Computer Science content with your Treehouse subscription. 
+Learning with Treehouse starts at only $25 per month. If you think you’re ready to start exploring if tech is right for you, sign up for your free seven day trial.
+What sets Treehouse apart is their dedication to helping you find your perfect job or develop your own business. – SwitchUp.org
+Follow us on Twitter, Instagram, and Facebook for our favorite tips, and to share how your learning is going. We’ll see you there!
+If you liked reading this article, you should also look at these two:
+HTML and CSS for BeginnersBeginning JavaScript

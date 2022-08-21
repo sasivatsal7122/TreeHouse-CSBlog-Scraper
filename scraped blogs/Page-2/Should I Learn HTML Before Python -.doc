@@ -1,0 +1,62 @@
+Title: Should I Learn HTML Before Python?
+
+
+
+HTML and Python are two of the most popular coding languages besides JavaScript, and are highly relevant to most development projects.  
+
+ Stack Overflow 2021 Survey
+However, deciding whether to learn HTML or Python first can be a tough decision for beginner programmers.
+In this guide, you’ll find out what these programming languages are used for, the complementary skills you need, and how to make the right learning choice.
+What is HTML Used For?
+HTML, also known as HyperText Markup Language, is a standardized system for defining how web pages are displayed on the front-end of a website or an application. It is used to tag text files to achieve a specified color, font, or graphic effect on web pages. 
+HTML is an elementary skill every website developer should have. Every page on the world wide web uses HTML.
+HTML functions in tandem with technologies such as Cascading Style Sheets (CSS) and versatile scripting languages like JavaScript for functional and interactive front-end web development. 
+When is HTML Knowledge Useful
+Building unique websites
+With HTML, you can build and customize websites from scratch. You can create themes and tweak them at will to fit your desire.
+HTML works with other coding languages like CSS and Javascript to develop interactive user interfaces.
+Allows for smooth website navigation
+By using hypertext links, you can enable a user to navigate to other parts of a page or another web page.  
+These hypertexts are texts that point to another text, section, or web page. Hypertexts use HTML to help users navigate a website with ease.
+Creating web document
+Web documents use HTML. They are called simple HTML files because they use the concept of HTML tags and the Document Object Model (DOM).  
+Every web document contains sections such as title, headlines, and paragraphs that use HTML tags <title>, <h1>, <p> to outline formats and locations on the client-side.
+These pages use HTML to set elements like style sheets, graphics, and images, to create more interactive websites.
+Making images responsive
+With HTML, you can make images responsive. This makes for a user interface that is smooth and easy to scan.
+If you have images that don’t fit the layout of your web pages, you can resize them in HTML using the img tag by specifying the height and width attributes.
+Skills Needed to Use HTML
+Graphic design skillsCommunication skillsResponsive design and testingDebuggingKnowledge of search engine optimization (SEO)
+You can learn more about HTML and its applications in the Treehouse Front-End Development Techdegree program.
+What is Python Used For?
+Python is a high-level computer programming language for building websites and software applications. It is an interpreted, object-oriented coding language. It’s also relevant in back-end development. 
+Python is also a general-purpose programming language that is used for task automation, data analysis, and visualization.
+Related: Check out Treehouse Python Development Courses to get started with the basics.
+When is Python Useful
+Artificial intelligence 
+Python is relevant in the fields of artificial intelligence. It is a highly capable programming language for tasks related to machine learning, robotics, medical diagnosis, and cloud computing.
+Python has powerful web frameworks, such as Django and Flask, and libraries for supporting AI processes.
+Scripting and automating tasks
+Scripting is the process of writing code to build system automation. You can use Python to create automation to ease programming tasks like error checks, mathematics, or file conversion.
+Also, Python can help non-programmers like writers, scientists, and small business owners simplify everyday tasks like:
+Converting downloaded files to spreadsheetsFilling out online applications automaticallyLocating and renaming multiple filesSending timed emails in batches
+Analyzing and visualizing data
+Python is a programming language relevant to data science and analysis. Data scientists and analysts use Python for:
+Building AI algorithmsCalculating complex statisticsAnalyzing dataTurning data into context-rich insights through visualization
+Developing software applications
+Developers use Python for software testing and prototyping. It makes it easy for them to automate and efficiently perform tasks like software building, operation control, product testing, and bug tracking.
+Skills Needed to Use Python
+Knowledge of Python web frameworks Basic knowledge of HTML and CSSGood communication skillsProblem-solving skills
+You can learn more about Python and its application in the Treehouse Python Development Techdegree program.
+Is HTML or Python Easier?
+Both HTML and Python are easy to learn and master. It’s hard to choose which one is easier because they have different functions and applications.
+While HTML is relevant for website development, Python is a general-purpose programming language that provides plenty of project opportunities in fields like software and web development, machine learning, and data science.
+In the Stack Overflow 2020 survey, Python was fourth on the list of programming languages. However, their 2021 survey shows that more developers are interested in learning Python. But, keep in mind, developer interest in mastering HTML remains constant throughout this period.
+Should I Learn HTML or Python First?
+What computer language you learn first will depend on the area of development you want to focus on. 
+With a solid grasp of HTML markup language, you’ll be able to design websites. And if you want to be more versatile as a developer in web and software development, command-line projects, and data analysis, learn Python.
+If you intend to become a full-stack developer, you’ll need a solid knowledge of both HTML and Python. Also, you’ll need basic knowledge of front-end languages (HTML and CSS) if you work with Python web frameworks like Django and Flask.
+Learn what you need first. You can move into another programming language later on to broaden your skills or if the scope of a project requires it. 
+Start Your Coding Journey With Treehouse
+There’s no definite rule that states what programming language you learn first. Both HTML and Python are easy to learn, and you can choose to get started with either of these programming languages depending on the area of development you want to focus on.
+Ready to start a career path as a certified programmer? Try a Treehouse Techdegree for free today.

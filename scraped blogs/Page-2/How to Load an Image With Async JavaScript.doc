@@ -1,0 +1,72 @@
+Title: How to Load an Image With Async JavaScript
+
+
+
+There may come a time where you want to download an image in the background instead of seeing it load like this…
+
+…have it load like this:
+
+Overview
+Whether you have an image gallery with high-res images, or you’re creating a game with lots of image assets, the process for loading an image with JavaScript stays the same.
+
+Create an Image with JavaScript
+Assign a URL to the src attribute of the new image
+Create a handler for the onload attribute, this will be triggered once the image is downloaded
+
+Let’s get started with the setup.
+Setup
+1. HTML
+The HTML is straight forward.
+<img src="clear.gif">
+
+I’m using a gif with 1 clear pixel that gets stretched over the whole image tag. If you don’t use an image you’ll get a “missing/broken image” icon like this:
+
+You can also use a low-resolution version of the image you’ll eventually show. When the high-resolution downloads you can swap it out.
+2. CSS
+In this example, I’ve included some CSS that will add a loading.gif in the background of destination image tag.
+
+Here’s the CSS I used.
+img {
+  width: 600px;
+  height: 450px;
+  background: url(loading.gif) 50% no-repeat;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+This will center the loading.gif into the middle of the destination image.
+3. JavaScript
+First, get the image tag you want to eventually populate.
+In my case, it’s the first image on the page.
+var image = document.images[0];
+
+Then, I create an image programmatically.
+var downloadingImage = new Image();
+
+Once you set the src attribute on this image downloading will start, so before that we want to create a handler for the onload event. Once the image has been downloaded this will trigger.
+downloadingImage.onload = function(){
+
+};
+
+Then we want to set the destination image source to the downloadingImage source, in other words, this source.
+downloadingImage.onload = function(){
+    image.src = this.src;   
+};
+
+Finally, we want to set the downloadingImage‘s source.
+downloadingImage.src = "http://an.image/to/aynchrounously/download.jpg";
+
+The image will start downloading in the background immediately. Once the download is complete the onload callback will be triggered and the destination’s source will be that of the newly downloaded image.
+And you’re done!
+Here’s the complete JavaScript code:
+var image = document.images[0];
+var downloadingImage = new Image();
+downloadingImage.onload = function(){
+    image.src = this.src;   
+};
+downloadingImage.src = "http://an.image/to/aynchrounously/download.jpg";
+
+Final Thoughts on Loading Pictures with JS
+This was a technical overview on how to load an image with JavaScript in the browser. As with all JavaScript applications, you should use JavaScript code to progressively enhance your site. Making sure that your application gracefully degrades is always a consideration.
+Continue Your Coding Journey With Treehouse
+Treehouse offers high-quality online coding classes to learn code, design and more all on your own time. Polish up your JavaScript knowledge with the Full-Stack JavaScript Techdegree, or take individual tracks to curate your learning journey. Sign up for your free trial today!

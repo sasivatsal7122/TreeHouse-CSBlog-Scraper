@@ -1,0 +1,176 @@
+Title: How to Start Coding
+
+
+
+Coding is for everybody. Some say it’s only for people with fancy degrees, but that’s plain out wrong. In today’s world, all of the resources you need to become a professional software developer are available online for a low-cost fee, and sometimes it’s even free. Everyone can learn, and you can do it fast. This ultimate guide will walk you through how to start coding and boost your coding journey!
+To kick off, when people start coding they always come across a few key questions: 
+What should you do first? How long will it take to get started? What are the different tracks and roadmaps you can tackle? Do you have to specialize?
+In this article, we’re going to dive into how to approach your coding career so you can get to where you need to go!
+Anyone Can Learn to Code
+Coding is an immensely useful skill that can redefine your career. And surprisingly, it’s really easy to start coding. 
+Here at Treehouse, we know that you can grasp how web pages are made in just 33 minutes with HTML and CSS. You’ll see how it all comes together in no time!
+“But it’s not that easy!”, you might be thinking. How can someone go from 0 all the way to a professional engineer who understands all of the pieces of a web app or how a website is built? 
+“Can I really do that?”, you might ask.
+The answer is yes.
+It sounds difficult, but the fact of the matter is that people do it all the time. It’s not just tech geniuses or talented people, but regular people who want to change their lives. Just check out these success stories. It’s real! 
+At Treehouse we see people coming into our programs from all walks of life. Anyone can learn to code, and they can have fun doing it. 
+What Can Coding Do For You?
+Learning to code can change your life. 
+Tech skills are in demand right now, and you can get several types of roles, even if your coding skills are still new. For example, you can get the following roles after finishing just a few courses or tracks:
+Junior developerCustomer support for a tech productFront-end developerFull stack developerApplications developer
+And there’s much more on the table than just that!
+Beyond the career angle, learning to code will also bring you the ability to make your own projects and build the tools and apps you need to make your life better.
+You can become an entrepreneur and build any app you want. You can host it on the Google Play Store, or on the web, and it can be anything you want it to be.
+Many people get into coding because they have dreams of technology and applications they want to build, so they learn what to do and they go and build it!
+Check out the cool projects you can build as a Treehouse student!
+What Is Coding?
+Coding is the ability to build your own applications and websites. To code you use tools such as a code editor and a web browser, and then your computer will run your applications for you.
+Every computer runs software on hardware. Hardware is the part of your computer that actually does the computational work. The software is like the instructions that tell your computer what to do. A really good course on understanding what computers are is this 20-minute course on computer science. 
+You can also check out this great one on how the web works.
+You don’t actually need to start with a computer science course to get started with learning to code. The best place to start coding is by coding directly! We recommend starting here, with the introduction to JavaScript and Html. Get to know what it means to edit a webpage with that short 54-minute introduction!
+What Kind of Computer Do You Need to Learn to Code?
+You can code with any kind of computer. There are many kinds of computers available today, but the most important aspect of your computer when you start coding is your OS.
+Fortunately, your OS won’t matter if you’re using tools like Treehouse or other similar tools to start coding.
+Your operating system will dictate how you interact with your computer. The three most popular operating systems are Windows, Linux and macOS. 
+When it comes to Linux, there are several different kinds of Linux OS, where each one is designed for a specific use-case. For example, someone might choose the Linux OS Ubuntu for their laptop, while choosing Red Hat Enterprise Linux for operating their servers.
+But don’t worry – when you start coding it doesn’t matter what kind of computer or OS you have! All of the basic code-writing tools operate almost the same way for any computer or OS!
+When you first start to code you’ll start learning by using an IDE. An IDE is a web-browser based code-writer that lets you code right in your browser, so you don’t need to download a single library or code editor.
+Use the Treehouse Workspace!
+When you start coding, you need to use a development environment. A development environment is the official word for all of those ambiguous things, such as text editors, compilers, libraries, and frameworks, that make it possible for a computer to read your code. But don’t fear! When you start coding, you’ll use the Treehouse Workspace!
+Treehouse has its own Treehouse in-browser coding tool, called the Treehouse workspace.
+You can get right into a new coding workspace by heading to the link above and hitting the “new” button. Check it out:
+
+Choose what language you want to start coding in on the menu. Mark up is a great place to start! Mark up is the language you use to style text on webpages:
+
+And there you have it! You’re ready to code using Treehouse’s web-browser based coding tool!
+
+As you start coding with Treehouse, you’ll be directed to answer problems by using your new coding skills. Treehouse will guide you how to use the Treehouse workspace. You’ll be writing real code in a matter of minutes!
+Other Development Environments
+If you’re not using Treehouse’s workspace, you have a couple of other options for getting your development environment set up. You could use an IDE, or you could set up a development environment directly on your computer. 
+Using an IDE
+IDE stands for Independent Development Environment. An IDE is a web-browser based code-writer that lets you code right in your browser. There are several famous IDEs out there that are used throughout a professional software engineer’s career for doing things such as proto-typing apps. 
+The most famous IDE is Visual Studio Code’s IDE. You can get the desktop version of Visual Studio Code, or you can use the IDE, which will let you code right in-browser. See the selection here:
+
+There are several other famous IDEs such as eclipse, Intellij IDEA, and xcode.
+Building a development environment on your own computer
+Several months after you start coding, you might look into setting up a development environment on your own computer. It might seem daunting at first, but once you have it set up, coding with a development environment is exactly like coding with the Treehouse workspace!
+You will still use a code editor to edit your code, and you’ll get the opportunity to use tons of apps and extensions to make it easier for you to get more out of your code! But don’t worry, most developers don’t look into this until they’ve been coding for at least a couple of months.
+What Coding Languages Are Popular in Industry Today?
+There are several popular coding languages, and they all have their time and place. Let’s first dive into the ones you’ll use as a web developer. Then let’s talk about the languages that are commonly used more broadly.
+The most common languages you’ll encounter when you start coding are Html, CSS, Javascript, SQL, Python, Ruby and PHP. Let’s take a look at each one:
+Html
+This is the language that developers use to edit a web page. Html is written into .html files, and contains information like the text that is seen on your web page, or the layout of the banners. A web page has a special construction (written in Html code), so many developers just use templates to get 90% of their web page done, then they fill in all of the other gaps themselves.
+To get started with Html, check out the introduction to Html and CSS course – it’ll walk you through everything in 2 hours, and all of the tasks will be in-browser, so it’s really easy to get it done!
+CSS
+CSS stands for Cascading Style Sheets, and it’s a very useful tool for editing the styles of your webpages. Your main webpage construction will be done with the Html file, then all of your colours, fonts, and spacing will be done with CSS. It’s really quite easy!
+JavaScript
+JavaScript is an immensely useful language for writing the kind of code that “actually does decision making and math”. This is usually the first logic-focused coding language that you learn when you start coding. JavaScript often interacts with web pages!
+How can Javascript interact with pages? It’s really simple actually. 
+As a broad overview, you have a JavaScript file, an Html file, and a CSS file. Your web page or web app will start running from the JavaScript file. As it reads through the file, the JavaScript file will tell the browser “it’s time to load the html file!”. Then, the Html file gets loaded, and your web page is visible!
+Do you need a more indepth look at that? Don’t worry, we’ve got you covered at Treehouse! Check out our full JavaScript/Html/CSS track that will take you from 0 to building JavaScript web apps that can load Html web pages!
+Ruby
+Ruby is a lot like JavaScript! It’s typically used for front-end development, and many developers learn Ruby as one of their first languages. To get a better understanding of Ruby, check out this Ruby Basics course that will get you up to speed in just two hours!
+Python
+Just like JavaScript and Ruby, Python is another language that runs the logic of your app. It works just like JavaScript and Ruby.
+People tend to use something like Python when they start interacting with a database. Don’t worry – a database is just another file type. A database is just a file that holds a bunch of information. 
+One great point about Python is that it has tons of libraries that are really powerful. The Python community is huge, and so there are really cool tools you can use within Python to do everything from astrophysics to cybersecurity!
+If you want to know more about Python, definitely check out this 33-minute long “Hello Python” course! Take a look at that, and you’ll totally understand what it is. And don’t forget, you’re 100% capable of learning to code with Python!
+PHP
+PHP is just like Python in the sense that it is typically used for more heavy-duty logic and app-writing. PHP is used all throughout industry and is typically one of the first server-side languages a developer will learn. If you do nothing else today, watching this 2-hour PHP intro course will be a great addition to your knowledge about computers! 
+Other Languages
+There are countless other languages, and they all have their unique purpose and history. We’ll take a look at a common list here. 
+The most important thing to know is that the fundamentals of every programming language are the same. There are a couple broad categories, where you could say that Html and Javascript have some massive differences. But within the same category, languages tend to operate very similarly, and it’s not greatly difficult to transfer between them. 
+For example, when switching between JavaScript, Ruby and Python you’ll see a lot of the basics remain the same, and you’ll easily be able to look up new syntax when you need to. 
+C
+This is one of the original languages of computer science. It’s great to learn if you are interested in how data is actually moved around in a computer.
+C++
+This is a new and improved version of C. This is used today when you want to write really fast programs, such as in high-definition video processing in real time and very responsive games. 
+SQL
+SQL is very different from Javascript or Python. This is a Query Language. A query language is a language where you write expressions that interact with a database of information. You would never write a whole app in SQL. You would just write the equivalent of something like “Retrieve X pieces of information from Y database where Z criteria is met”. That SQL expression will retrieve the information for you and you can then use that information in your Python or Javascript app!
+SQL variants, i.e. MySQL, MS SQL, etc.
+Just like SQL, the other SQL variants operate in the same way! At Treehouse, we love SQLAlchemy. Check out this course on how to use SQLAlchemy and see how easy it is to interact with a database! 
+R
+R is typically used for statistics. You’ll see R being used whenever you have lots of data and need to perform trendline analysis and statistical analysis on the trends.
+And many more
+There are hundreds more programming languages! Others you could check out are Java, Node.js, C#, and Perl. They are all useful, and you will certainly pick them up as you need them!
+Frameworks and Libraries
+On top of languages, another important part of learning to code is your frameworks and libraries. Let me just give a brief overview here so you know what’s going on when you get there.
+Frameworks
+Frameworks are packages of code that take care of big pieces of your development. Developers have put common and repetitive functionality into these frameworks so that they don’t have to reinvent the wheel every time. 
+For example, a really famous Framework is Flask. Flask makes it easy to throw together a Html, CSS, and Python app without having to do any of the work to make sure all of the files are connected!
+Libraries
+Libraries are more simple than Frameworks. Libraries are just a file that contains a bunch of code that you can use as shortcuts to do complicated things. For example, you might import a cybersecurity library, and it will have shortcuts that enable you to easily store passwords securely.
+There’s no need to understand how the libraries actually work! That’s the great thing about it! They’re supposed to be short cuts that let you do what you need to do without having to think!
+What Resources Are Available to You While You’re Learning?
+There are hundreds of resources out there for learning to code. Let’s take a look at what your options are:
+Treehouse
+Treehouse is an online learning platform that has everything you need to learn to code. Treehouse is equipped with courses that are in the 20 minute to 2 hour range, as well as online bootcamps that will have you graduate with a portfolio of projects in just a couple of months. 
+Not only is Treehouse a place where you can grab courses, tracks and online Techdegrees, it also comes with several other tools you can use to help fast track your learning.
+“The single best thing about Treehouse is the community” – Nick Bulbeck, a Treehouse grad
+Treehouse comes with an amazing community of teachers and other students that can help you get through the challenges of learning to code. 
+Take a look at this community page where students are asking questions and getting help! You can ask anything you like, and people will jump right in to answer you. 
+You can also join the slack channel that matches your program, and chat with other students who are tackling exactly the same problem sets as you.  
+Treehouse workspaces are a great place to start building your apps for the first time. Rather than build out a development environment on your computer, you can learn coding skills one step at a time right in your browser. 
+Free online courses
+There’s plenty of free online courses you can take to learn to code. As well, there are excellent problem sets that can complement any other kind of coding education.
+Here at Treehouse we definitely recommend you try a couple of free courses and add them to the list on your resume!
+The challenge with free online courses is that you won’t have the community support you would have if you did your course with a school like Treehouse. Not only is working with a group great for when you get stuck, you actually learn more by helping others too. It’s important to interact with other people about code, because that’s what the workforce is all about!
+Youtube
+There are countless excellent resources on Youtube. There are more hours of excellent tutorials on Youtube than anyone could watch in a lifetime. Go and get involved – watch as much as you can!
+Articles
+Similar to Youtube, there’s more articles and written tutorials on how to code than you could ever imagine. These kinds of resources are great for when you’re working on a specific problem beyond what a course can teach you. 
+Google search will bring up a list of resources that might apply to the problem you’re working on, and then you can study the specific methods for solving that problem. You can dive into these whenever you have specific objectives you’re trying to achieve with your new found coding skills!
+Tech content is available everywhere
+The reality is that tech content is everywhere! You can constantly learn and grow whenever you want to! 
+It’s great to take structured courses like Treehouse to get the foundations and the routine running, then you can go beyond that with hundreds of other cool options for your technical development!
+Who Can You Talk to While Learning?
+To be completely honest, you need to have a mentor or a community while learning to code. In some rare cases people are able to get extremely far on their own, but at the heart of all coding are teams and teamwork. 
+A community or a mentor will be able to point you in the right direction so you know what to study next. They’ll help you orient yourself in the world of learning and help you decide how you want to proceed with your solution. 
+At Treehouse we take our community support seriously. We believe that no student should be left behind, and we believe from the bottom of our hearts that all of you can achieve graduation from our courses! 
+Talk to our Treehouse teachers and community members when you’re learning to code! It will make it easier for you to learn, which means you can learn more and you can learn it faster!
+What’s the Deal With Coding Bootcamps?
+You may have heard of coding bootcamps before, but what are they? 
+Bootcamps are private educational programs built by educational institutions. They go through a curriculum with their students which takes about 3 – 6 months, and at the end you will have a capstone project that demonstrates the skills you have learned in the program. 
+Bootcamps tend to be full-time in-person programs, and they typically cost between 10,000 USD and 15,000 USD. The education quality, although it may vary by bootcamp, tends to be very high and students who graduate are job-ready.
+There are several barriers for people to enter bootcamps, which actually results in coding continuing to be a prohibited trade for many. 
+Some of the biggest cons of bootcamps are:
+You can’t work and attend bootcamp. Bootcamps are typically full-time and all students will need to be present during the working-hours of a bootcamp.Bootcamps aren’t cheap. While you learn a lot from a Bootcamp, they’re not cheap. It could take an entire year for someone to save up that much money. You can’t stop and start. If anything comes up – such as your kid gets sick, or work needs you to fill in for someone, you could risk dropping out of your bootcamp, and losing that investment.There is no continuing education once you’ve graduated. Once you’ve graduated, that’s it. There’s no more courses, and there’s nothing else you can do to keep going.
+The Treehouse Techdegrees offer the same level of education as a coding bootcamp, but you can take it at your pace, and at a fraction of the cost.
+You can pay by month for access to all of the Techdegree curriculum, and for a typical student who will complete a program in 3-4 months, a Techdegree could cost about $800 dollars.
+You can go to work and attend the Treehouse techdegree at the same time. Techdegrees are completed online, at your own pace, so you don’t need to stop working to complete them.
+If something happens, and you need to take a break, you can easily stop and start your Techdegree. You can unsubscribe for a month, and pick it back up next month. There’s no worry about not meeting the deadline and losing your progress. Whenever you’re ready to go again you can sign back in and start working at it! Your Techdegree community will be there waiting for you.
+What are The Different Types of Developer Careers?
+The three major categories of developers are as follows:
+Front-endBack-endDevOps
+After that, you’ll get several branches for specific use-cases and tech stacks. Becoming skilled at a specific tech stack, such as Angular or React, is 100% worthwhile. For example, a developer with a specialization in React is similar to a nursing student with a specialization in pediatrics. It’s a whole ball game unto itself, and specialists are needed everywhere.
+Front-end engineers
+Front-end engineers specialize in how to make web pages look great and dynamically render based on requirements such as device size. Front-end engineers are deeply talented with CSS and Html, and they know how to manipulate code to make really beautiful designs happen. 
+They’re also excellent at what we call “client-side” JavaScript. Client-side Javascript is the type of JavaScript that’s run by a user’s computer when that page gets loaded. It’s extremely useful for doing small design changes or content changes based on user information. 
+Back-end engineers
+Back-end engineers are the ones who build the application part of a product. They are the ones who build the frameworks for inputting data from the user into the database, or the results of specific button clicks. 
+Back-end engineers work with SQL or PostgreSQL to store user data, and they build applications using Python, PHP, or other languages depending on the requirements of the app. 
+DevOps
+DevOps (short for development operations) engineers work with the overall infrastructure of a product. They focus on what actually serves the webpages to the Internet. They work with AWS, Azure or Google Cloud Platform to build out the web hosting of a product and make sure every single independent user can interact with the website as they need to. 
+Treehouse covers very basic DevOps skills, but if you’re interested you should continue by studying with the courses directly issued by AWS and other cloud hosting providers! Becoming a DevOps engineer is a highly lucrative trade, and is commonly pursued after someone becomes a front-end or a back-end engineer.
+What To Do When Your Code Doesn’t Work?
+Code that doesn’t work is completely normal. This happens to everyone all the time. There’s a couple of really key ways to handle it. 
+First, recognize that this is normal, and chill. If your code doesn’t work it doesn’t mean that you’re not smart enough, or any of those other crazy negative things our brains tell themselves. Everyone deals with this problem, and it’s probably just a misplaced bracket somewhere that’s clogging things up. 
+Then, you can check out the following methods:
+Try googling your error code
+After picking through your code for a while to make sure it wasn’t just a bracket, try googling your error message. Chances are several other people have had the same problem as you, and have posted to a forum about it. Read their answer and check to see how they solved it!
+Ask your community
+Does a coder in your community need to take a break? Grab them while they’re online and get them to look over your stuff! They might be able to see something that you can’t!
+Jump onto the Treehouse community channels and see if you can get some help there! Your fellow students and teachers might have come across the issue before and will be able to help you out.
+Use Stack-overflow
+Stack Overflow is a famous forum for coding and engineering related errors. Dive into the problems other people are having and see what brilliant solutions people have thought up! Then, borrow their solutions to solve your own problem! That’s how the world of development works – just keep swapping and trading code with people until something works!
+Test your variables
+One great option for seeing what’s wrong with your code is to test your variables. Do a print statement for every iteration of your variables, and double check to see if it is what you expected. Maybe you’ve mixed up a data-type somewhere along the way, and it won’t be obvious until you see that value printed as “[1]” instead of “1”. 
+Take a break
+Maybe all you need to do is take a break. Sometimes coming back to your code after being away for a while gives you the fresh eyes you need to be able to see what’s wrong. Work on something else for a bit, then come back to this problem.
+Talk to your mentor at Treehouse!
+Your teachers at treehouse know that it takes a lot of iterations to identify why something isn’t working. Talk to your teachers! They’ll be able to help you. 
+The Learning Never Stops
+Get used to the fact that no one ever knows everything about coding. You will always be confronted with new things, and there will always be a new goal ahead of you that you are aspiring towards. 
+You need to try new languages and extensions every week, and no matter how many new things you learn, there will always be more to learn.
+Out there in the workforce, being great at what you do doesn’t always mean that you know everything about what you’re doing. It might mean that you’re good at learning new things and applying yourself to make a solution that’s right for the product you’re with. 
+Keep going and never stop coding! We’re excited to study with you here at Treehouse!

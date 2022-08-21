@@ -1,0 +1,56 @@
+Title: What is UX Design?
+
+
+
+Picture this: you’re about to enter a building in your neighborhood. This could be an office building, a market, a library. Your cell phone buzzes in your pocket, and you’re a bit distracted as you approach the front door. You push the metal bar across the glass door with your forearm, but it won’t budge. You try again, but no luck. Is the door locked? Is the business closed? Finally, you realize pushing won’t work: the door was designed to be pulled open.
+If you’re like most people, this probably happens to you fairly frequently. And while people often blame themselves for being distracted, the fault actually lies in the design of the door. If a handle had suggested being grabbed and pulled, that’s likely what you would have done.
+Source: 99% Invisible
+This situation is described in the opening pages of a book called The Design of Everyday Things by a cognitive scientist and usability engineer named Don Norman. In fact, Norman’s writings on badly designed doors are so influential that nowadays we call them Norman doors. And although The Design of Everyday Things was written in 1988, Norman doors are still found everywhere.
+I began this post by introducing Norman doors for a reason. Whether tasked with designing a digital product like a website or mobile app, or even a physical object like a door, User Experience designers are constantly thinking about the kinds of questions facing the user in this example.
+
+What was the user’s goal? To open the door, to enter the building.
+Why weren’t they paying attention? The cellphone notification created a small distraction, but I would also suggest that most able-bodied users don’t put much thought into opening doors. It’s something they’ve done thousands of times, and it’s supposed to be easy. Of course, doors are also designed for disabled users, who might approach opening a door very differently and who deserve special consideration.
+What stopped the user from achieving their goal? The fault lies in the design of the door handle, which failed to send a clear signal to the user on how to use it. The more obvious the design, the less users struggle.
+
+By asking these questions about our users, we’re practicing empathy. Empathy, defined as the ability to understand and share the feelings of another, is at the heart of the definition of user experience design.
+UX Design, Defined
+Nielsen Norman Group, the UX consulting firm founded by Don Norman and fellow web usability consultant Jakob Nielsen in 1998, defines User Experience (or UX) this way:
+User experience encompasses all aspects of the end-user’s interaction with the company, its services, and its products.
+UX designers prioritize the needs of users and create solutions through empathy. So when UX designers help design a product or service for a company, we’re constantly asking ourselves: who are that company’s users? What do the users want to achieve? What obstacles stand in their way? And how can we minimize those obstacles and make the experience of our users a positive one?
+If you’ve ever abandoned a website or mobile app after thinking “This wasn’t made for a user like me”, or “wow, what a frustrating experience. There must be a better way”, then UX design might be a good fit for you.
+What Do UX Designers Have in Common?
+UX designers need to be good listeners, since listening to users describe their frustrations is the best way to solve pain points, a term that refers to problem areas within a product causing frustration or preventing users from reaching their goal.
+
+Many UX designers are interested in psychology as well. Designers who understand how the human brain makes decisions and what visuals attract the human eye can take advantage of that information to design more intuitive products.
+Of course, user experience design is just as much an art form as it is a science. If you’re interested in working with color, keeping a sketchbook, practicing creative writing, or working with photography, you’ll find that user experience design offers a great creative outlet.
+UX designers tend to be curious by nature, and passionate about problem-solving. If something works, they want to know why it works. If something in a product causes frustration, UX designers like to chat with users about why it was frustrating, to observe those users and find out what they were doing when they got stuck, and to test out a variety of solutions until that obstacle between users and their goal is removed.
+
+Finally, UX designers should be great communicators. When I say communication, I’m partly describing what effective design should achieve. A successful door handle communicates its function to users: “don’t push me. Pull me.” A successful sign up button on a website speaks clearly to users: “this is what you click if you’d like to join our mailing list.”
+UX designers also tend to spend a good portion of their workday communicating with others. We communicate with clients throughout each project, whether we’re identifying goals and strategies or presenting design solutions. We communicate with users, interviewing them about their habits and observing them using our products. And we communicate with team members, such as the developers who use code to bring our ideas to life.
+If you’re looking at this list of qualities common to UX designers and thinking “that sounds like me”, UX design might be a great fit for you.
+What Skills Should a UX Designer Have?
+What skills do industry employers expect from a UX designer? The answer to this question tends to evolve over time, and partly depends on the type of role you’re preparing for. But there are a handful of skills that most UX professionals are capable of.
+We’ve mentioned already that empathy, or your ability to see a problem from another person’s perspective, is a critical quality for any UX designer to have. However, empathy alone doesn’t lead to great products. It’s critical that UX designers actually talk to users–to ask them about their goals, to learn more about their frustrations, and to observe them attempting to solve challenges. The process of gathering firsthand information about users is called User Research.
+UX designers also practice Information Architecture, which refers to the practice of organizing and labeling content so users can make sense of it. For example, I’ve clicked on the Doors and Windows category at Home Depot, and as you can see, there is a lot of content to organize here.
+
+How did Home Depot decide that Exterior Doors should be a main category of doors? Are the nine choices in the sidebar the most logical subcategories for exterior doors? Is the label “Commercial Doors” clear and obvious enough that Home Depot users will understand what this link contains? These are the kinds of questions Information Architects face.
+You’re probably also noticing the large number of ways to get around Home Depot’s website. Interaction Designers focus on the way users interact with a product.
+
+Each of the navigation systems seen here–whether the search bar, the All Departments dropdown menu, or the breadcrumb links indicating how deep the user has traveled within the Doors and Windows section of the site–is based on a popular design pattern found in numerous places on the web, and is designed to hopefully make the process of finding a product and making a purchase as smooth and satisfying as possible.
+Designing effective website and app layouts requires a lot of preparation. UX designers do a lot of sketching–some quick and rough, some more refined to show to clients and teammates.
+Source: UX Collective
+Using digital software like Figma, Adobe XD, or Sketch, designers turn those sketches first into black and white wireframes, which indicate basic page structure and labeling, followed by mockups, which include decisions about color, typography, and photography.
+Wireframes for a loan application by Ryszard Cz. Source: Design Thinking by Adobe
+Designers can communicate with other team members using this software to create collaborative designs, and can turn wireframes and mockups into clickable prototypes that allow you to test design solutions on users before they’re handed off to the development team to be coded.
+Source: Figma
+Learning UX at Treehouse
+That’s just a brief overview of some of the skills common to UX designers. It’s worth noting that not all UX professionals do all these things: some might specialize in just one of these tasks, while others are generalists who take on numerous roles. But all of these skills are taught as part of the UX Techdegree at Treehouse.
+This UX certification program will teach you the skills covered in this article and apply them to three case studies consisting of three projects each. Together, these case studies will form an online portfolio used to promote yourself while seeking UX jobs. In addition, the UX Techdegree currently offers a free one-year subscription to Adobe XD, one of the most popular tools for creating wireframes, mockups, and prototypes.
+Learning with Treehouse starts at only $25 per month. If you think you’re ready to start exploring if tech is right for you, sign up for your free seven day trial.
+What sets Treehouse apart is their dedication to helping you find your perfect job or develop your own business. – SwitchUp.org
+Follow us on Twitter, Instagram, and Facebook for our favorite tips, and to share how your learning is going. We’ll see you there!
+If you liked reading this article, you should also look at these two:
+
+Learn to Code for Beginners
+Best Beginner Course for JavaScript Learning
+

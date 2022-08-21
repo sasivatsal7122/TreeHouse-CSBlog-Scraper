@@ -1,0 +1,38 @@
+Title: 7 Best Node.js Project Ideas for Beginners
+
+
+
+Note: This post was edited on 10/8/20 to more accurately reflect Node.js’ possibilities! Thanks to Treehouse Instructor Reggie Williams for the updates.
+Node.js is a completely free, open source server platform. Not only is it used for making simple websites, but it can also be used to create awesome, dynamic real-time experiences. Here are a few of our favorite Node.js project ideas to spark your inspiration:
+1. GIF Chat Room
+Node.js is built for making chat applications. Here’s a novel twist. Chrome and Firefox have an API to access a computer’s camera. Images from the camera get processed around the submission of a chat message and a GIF is sent to the room.
+
+Here’s of the sample of a GIF produced in the chat.
+
+Visit meatspaces here and browse the source code here.
+2. Build Your Own Zoom
+With the rise of working from home and modern Web APIs like WebRTC being supported by more and more browsers, Zoom & Google Hangout-like applications are going to get more common. Talky.io is one of those.
+
+You (and a friend) can visit their website in a compatible browser and try it out for yourself!
+Check out either a short or long tutorial to learn how to build your own.
+3. Job Search App
+Node’s capabilities to communicate with APIs make it ideal for building full stack applications. This tutorial uses the Adzuna jobs API, vanilla JS, and Node to create a job searching app and add custom features you’d like to see in your favorite app.
+4. Covid-19 Tracker
+Node.js is a powerful tool for writing server side JavaScript and allows you to interact with APIs and pass data to the front end. You can use Node.js in combination with React and chart.js to create a COVID tracking app. This example pulls data from the CDC so you can stay up to date with stats.
+
+Try out the socket.computer here and take a look at the source code here.
+5. Command Line Interface
+Building things in Node.js doesn’t always have to be for recreation, there’s utility in it too. In this example you can build a command line interface that has CRUD capabilities.
+6. Collaborative Drawing Tool
+Treehouse students will learn how to build a simple drawing application in jQuery in the course jQuery Basics.
+The functionality has been extended with Node.js so that multiple people can draw on the same canvas!
+
+Why not send this link to a friend and draw with them!
+7. RSS Reader
+With Node.js you could build cross-platform applications to run on your desktop. Here’s an example of an app called Sputnik. It’s an RSS reader.
+
+You can check out Sputnik here and node-webkit, the framework used to build this app, here.
+You can check out more applications here.
+Get Started With Treehouse
+We hope that these examples started to get the creative juices flowing. Node.js is an incredible tool, and the possibilities for builds are endless. 
+With Treehouse, you can learn the basics of frameworks like Node.js to sharpen up your programming skills. Get started with your free trial for the Treehouse Techdegree today!

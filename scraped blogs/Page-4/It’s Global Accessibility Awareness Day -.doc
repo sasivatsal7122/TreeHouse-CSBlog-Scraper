@@ -1,0 +1,47 @@
+Title: It’s Global Accessibility Awareness Day!
+
+
+
+On May 20, 2021, Treehouse joins in the celebration of the tenth Global Accessibility Awareness Day, or GAAD.
+Source: ucsd.edu
+According to the Global Accessibility Awareness Day website,
+The purpose of GAAD is to get everyone talking, thinking and learning about digital access and inclusion, and the more than One Billion people with disabilities/impairments.
+The events of Global Accessibility Awareness Day are designed to teach builders of online content to create first-rate digital experiences for users with disabilities. With more people working and attending school remotely as a result of the global COVID-19 pandemic, accessibility is more important than ever. And shortcut solutions such as accessibility overlays, or JavaScript widgets that attempt to correct accessibility issues as the page loads, aren’t good enough. Designers and developers need to consider users with disabilities at every stage of the research, design, testing, and development process of every project.
+Treehouse is a mission-driven organization, and three of our cultural values include
+
+Get everyone to the same starting line
+Match the diversity of the United States
+Help everyone feel like they belong
+
+Creating equal online access for users with disabilities feels very much consistent with Treehouse’s mission.
+Accessibility at Treehouse
+While we at Treehouse acknowledge that there are always more improvements to make, we’re proud of the steps we’ve taken recently to both spread accessibility awareness and make our product more accessible to learners with disabilities.
+Accessibility Courses
+In 2020, Treehouse added two different accessibility courses to our core curriculum.
+
+Accessibility For UX Designers
+Accessibility For Web Developers
+
+Both courses cover important principles and recommendations from the Web Content Accessibility Guidelines (WCAG), the internationally recognized standard for web content accessibility.
+Blog Posts
+Check out Treehouse’s ongoing series of blog posts about the Web Content Accessibility Guidelines:
+
+Web Accessibility: An Introduction
+Introducing the WCAG Principles
+WCAG 1.1: Text Alternatives
+WCAG 1.2: Time-based Media
+WCAG 1.3: Adaptable
+
+Accessibility Improvements
+Treehouse is always open to suggestions and recommendations on how to improve the accessibility of our own learning platform. Improvements we’ve made over the past year include
+
+Caption reviews. Before launching a course, each Treehouse instructor is now required to review video captions for accuracy. Videos featuring multiple speakers should have speaker identification added to the captions.
+Increasing color contrast. Our engineering team and product designers are working hard to keep the contrast between foreground and background colors sufficient on our website and within our videos and animations.
+
+In addition, a number of upcoming changes are scheduled, including
+
+Disabling autoplay. While WCAG Success Criterion 1.4.2 only requires autoplaying media to have a pause mechanism, sounds that play automatically can interfere with screen reader performance or cause confusion for users with cognitive disabilities. Autoplaying video can also trigger seizures and other physical reactions.
+Embracing plain language guidelines. Treehouse is currently working on an updated version of our style guide for written copy. The style guide includes recommendations from plainlanguage.gov on keeping writing clear and understandable.
+
+What’s Next?
+What improvements should Treehouse make over the following year? What are you doing to celebrate Global Accessibility Awareness Day and to spread accessibility awareness? Let us know in the comments!

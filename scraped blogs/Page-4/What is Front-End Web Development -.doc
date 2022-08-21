@@ -1,0 +1,40 @@
+Title: What is Front-End Web Development?
+
+
+
+Think of your favorite website. This could be a news website, an e-commerce site for shopping, an artist’s portfolio site, a social media platform, or a learning site like Treehouse.
+
+No matter what category your favorite site falls into, it’s bound to have a lot in common with other websites. To visit any website, you first have to load it in a browser like Google Chrome, Firefox, or Safari. Once it loads, the website usually contains a way to get around, in the form of navigation links or a search bar. In addition to navigation, you’ll find text to read, images to look at, videos to watch, and links to click on.
+All these different types of websites have something else in common: designing them wasn’t enough. Designers create the structure of a web page using sketches and wireframes and make decisions about color, typography, and photography when creating mockups. But until a developer gets involved, a mockup is just a picture. Developers turn that picture into an interactive website by writing code–code that instructs the web browser to display that text, present those images, take the user to a new page once they’ve clicked a link, and much more.
+Front-End vs. Back-End Development
+Front-end developers are sometimes referred to as client-side developers, since everything we code is directly viewable by the client–in other words, the visitor to our website or app.
+Here I am on Treehouse’s website, viewing a course called HTML Basics using the Google Chrome web browser.
+
+There’s a navigation bar featuring the green Treehouse logo, along with links called Home, Tracks, Library, Community, and Support. The navigation uses light-colored text on a dark grey background and a typeface with rather round-looking letters. There’s a bit of empty space beneath the navigation, and then the main page contents begin, including a prominent button inviting me to start the course.
+How did all this content appear in my browser? How did Treehouse create a navigation bar containing these exact words, this exact combination of colors and typography, and exactly this much space underneath? Why does this content rearrange as I make my browser narrower until my screen resembles the size of a mobile device? The answer is that a front-end developer implemented these decisions using code, by writing a combination of HTML, CSS, and JavaScript.
+So if a front-end developer controls the content and presentation of web pages like this, what does a back-end developer do? Well, you might have noticed that the top right corner of the navigation bar remembers some information about me as a user.
+
+It looks like I’ve scored over 15,000 points while reviewing Treehouse lessons, and there’s a small profile picture of me, as well as my name if I click the dropdown arrow. For a web application to remember data about me, it needs to store that information somewhere on a database. Back-end developers build the databases that store information.
+HTML, CSS, JavaScript
+Each web page is made up of three different layers that work together to deliver an experience to the user. There’s a content layer, a presentation layer, and a behavior layer.
+The content layer is HTML, short for Hypertext Markup Language. HTML provides the structural foundation of a web page. Content like headings, paragraphs, bulleted lists, links, and images are defined by our HTML.
+
+Front-end developers use HTML tags to turn web content into HTML elements. For example, if we want the browser to display the phrase “Hello world”, we need to surround that phrase with HTML tags telling the browser what type of content it is. Is it a heading? Or maybe a paragraph?
+The presentation layer is CSS, short for Cascading Style Sheets. CSS controls the appearance of our HTML. We use our stylesheets to style the HTML with colors, font sizes, backgrounds, layout, and much more. CSS also allows us to adapt our content to various devices, screen sizes, and resolutions.
+
+Front-end developers write CSS code to change the appearance of HTML elements. Since our phrase “Hello, world!” is a paragraph, we can write code that changes that text from the default black color to red. Or to blue.
+The behavior layer is normally handled by JavaScript, which provides real-time user interaction. Front-end developers use JavaScript to respond to user input and to dynamically update web content.
+
+JavaScript is also used by back-end developers in communicating with databases. As a result, JavaScript can definitely get quite a bit more complex than HTML and CSS.
+Master Front-End Web Development at Treehouse
+So what kind of student makes a great front-end developer? You’ll need to be excited about learning, exploring, and practicing code, since front-end developers write a lot of it. You’ll want to constantly seek inspiration–front-end developers are always checking out other websites and seeing how they work.
+And while front-end developers don’t need to be experts in User Experience design, it helps to have at least some interest in usability principles. Everything you build will be interacted with directly by users, and as you’ll be in constant contact with designers, it helps to speak their language.
+In the Front-End Web Development Techdegree at Treehouse, you’ll learn the skills covered in this article and apply them to eight different projects, ranging from a personal profile page to an interactive photo gallery, and a game show app to an interactive employee directory. Together, these projects will form an online portfolio used to promote yourself while seeking Front-End Web Development jobs.
+Learning with Treehouse starts at only $25 per month. If you think you’re ready to start exploring if tech is right for you, sign up for your free seven day trial.
+What sets Treehouse apart is their dedication to helping you find your perfect job or develop your own business. – SwitchUp.org
+Follow us on Twitter, Instagram, and Facebook for our favorite tips, and to share how your learning is going. We’ll see you there!
+If you liked reading this article, you should also look at these two:
+
+The Best Places to Look for Your First Tech Job
+5 Treehouse Students Who Found Tech Jobs in Less than a Year
+

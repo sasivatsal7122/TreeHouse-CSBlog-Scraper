@@ -1,0 +1,105 @@
+Title: Front-End vs. Back-End vs. Full Stack Developers: What’s the Difference?
+
+
+
+The functionality of a website depends on two vital areas — the front-end and the back-end. 
+Three categories of developers — the front-end, back-end, and full-stack developers — operate these areas to create sleek, professional websites and applications. 
+From 2020 to 2021, there has been a drastic increase in the number of full-stack developers worldwide in comparison to the other categories.
+In a 2020 survey, the number of back-end developers was slightly higher than full-stack, with front-end being the least:
+
+Stackoverflow 2021 survey shows that more people are becoming full-stack developers: 
+
+It might be a little daunting to know which area you’d like to specialize in if you don’t know what each developer category entails. 
+In this guide, you’ll learn what front-end, back-end, and full-stack developers are, and how their functions differ. 
+Keep reading to learn:
+What is a front-end developer?Front-end developer skillsWhat is a back-end developer?Back-end developer skillsWhat is a full-stack developer?Full-stack developer skillsFront-end vs. back-end: what are the key differences?Should I start with the front-end or back-end?
+What is a Front-End Developer? 
+A front-end developer is someone who specializes in the user interface or client-side development.
+They work on creating websites that users can see and interact with.
+Front-end development is mainly about the visuals and responsiveness of a website. It’s about colors, styles, designs, and site behavior. It also includes how optimized a site is for different interfaces — mobile, tablet, and computer.
+Front-end development is everything you see on the screen when you enter a site URL into your browser. Front-end development is sometimes called client-side development, where the “client” refers to the computer that is using your site.
+When you’re ready to start studying, you can learn all about client-side development in the Treehouse Front-End Bootcamp and guided Treehouse front-End Tracks.
+Related Article: The Difference Between Front-End Bootcamp (TechDegree) and Front-End Tracks (Guided Courses & Course Plus).
+Front-End Developer Skills
+There are certain skills a front-end developer needs to acquire. These include:
+Front-end programming languages — HTML, CSS, and JavaScriptCode testing and debuggingCross-browser optimizationDesign skills
+What is a Back-End Developer?
+A back-end developer is someone who specializes in the development of server-side applications. This refers to the part of the application that needs lots of computers to run the software.
+The application is run on a bunch of web servers, and then information is passed to the “client”, who is using the application on a phone or a laptop. The client can’t do all of the processing related to using their app. That processing needs to occur in a cloud computer, and then the results can be supplied to each client.
+Back-end developers structure logical data that users can’t see or interact with to ensure that the client-side of the website performs smoothly.
+They create databases, write Application Programming Interfaces (APIs), and maintain the proper functioning of a website. 
+Looking for a list of courses for server-side development? Check out the Treehouse Back-End Community Thread.
+Back-End Developer Skills
+Here are some of the skills of a back-end developer:
+Back-end programming languages — Python, Java, C++, and PHP among othersAPI generationDatabase and server managementAlgorithms and data structuring
+What is a Full-Stack Developer?
+A full-stack developer is a professional who’s efficient at handling both the front-end and back-end development of a website or application.
+To give a quick example of how the front-end and back-end work: 
+If a prospect completes a checkout form on your site, it’s all thanks to effective front-end development.
+However, every other thing that goes on after the prospect submits the form –  that is, purchase completion and arrangement of prospect’s data — is a back-end operation.
+Full-stack developers take a unified approach to creating hassle-free websites as they can handle multiple programming frameworks, database operations, and UI/UX management with proper care.
+Full-Stack Developer Skills
+Now that you know full-stack includes both the front-end and back-end development, you’re going to need certain skills to help you build these sides.
+Here’s a list of six essential skills you need as a full-stack developer:
+1. Front-End Coding Languages
+Full-stack developers have a solid knowledge of how to use HTML and CSS, which are the core front-end programming languages. 
+HTML: HTML, or Hypertext Markup Language, is a code that defines how web pages are structured on the client-side. Each part of the web page is tagged. For example, the head, body, and the title are all given a tag that looks something like this: <title></title>.
+Then, anything that needs to go in the title part of the webpage gets put inside the title tag. For example <title>”This is the title of my webpage”</title>.
+This is what HTML code looks like:
+
+Source
+This is what users see on the front-end:
+
+CSS: CSS refers to Cascading Style Sheets. As the name suggests, it allows you to add styles to web pages. It’s a programming language that describes how a document written in HTML is presented design-wise.
+Here’s what CSS code looks like:
+
+Now, here’s what users will see:
+
+Are you looking for a guided curriculum of courses to learn more about HTML and CSS? View the Treehouse Front-End Tracks.
+2. Back-End Coding Languages
+A full-stack developer needs to be well-versed in back-end programming.
+It is important to build websites where the user operations on the client-side are end-to-end tied to their logical programming functions on the back-end.
+Here are three back-end programming languages you should know:
+Java: Java is a widely used high-level, robust language. It uses Object-Oriented Programming (OOP). Java is a secure, standalone compiled coding language.
+Python: Python is another popular programming language. It is simple and concise to learn and makes system implementation easy.
+PHP: PHP is a fast scripting language designed for website development. This open-source, back-end language is fast and flexible to use.
+There are several other back-end programming languages like C++, Ruby, REST, C#, Golang, Node.js, Go, Kotlin, etc.
+3. JavaScript 
+JavaScript is a vital skill every full-stack developer needs. It is a dynamic programming language that developers can use to create interactive front-end as well as back-end applications.
+JavaScript is kind of similar to Java in that they are both OOP languages. However, while Java is a language that must be compiled, JavaScript is a script (in text format) that only needs to be interpreted.
+A full-stack developer should have knowledge of JavaScript, its frameworks, and its capabilities. 
+JavaScript integrates with HTML and CSS to produce dynamic front-end programmingIt makes website development easy and efficientIt uses front-end frameworks and libraries such as AngularJS, jQuery, Vue.js, and React.jsIt also uses backend frameworks like Django, Laravel, and Express. 
+Looking for a guided curriculum of courses on full-stack JavaScript development? View the Treehouse Full-Stack Tracks.
+4. Database Management Systems
+To excel as a full-stack developer, understand how database management systems work. 
+You need to be skilled in database management systems (DBMS) like Oracle, MYSQL, SQLite, Microsoft Access, and dBASE.
+DBMS are system software that allows you to store, process, and manage data efficiently. They also save users from repetitive data processing tasks. Building DBMS gives you control over your and users’ data.
+5. Revision Control Knowledge
+Revision control is also known as version control. A full-stack developer should know how to use revision control systems to track and manage changes made to software code, without affecting the original project. 
+More so, revision control systems permit different users from anywhere to collaborate on a project, point out issues and recommend solutions.
+With revision control software like Github, Git, Mercurial, or Subversion, you can keep track of project files and the history of what users are working on.
+6. Web Architecture
+This is about website structuring and designing, and a full-stack developer needs to have strong experience in website architecture.
+Website architecture is the part where you plan the technical, visual, and functional components of a website.
+This is where you learn how to combine website features, databases, user interfaces, servers, naming hierarchy, cloud storage, aesthetics, layout, and UI/UX maintenance.
+These full-stack development skills will empower you to:
+Create performing websites with good logical structuring.Build site layouts that speak to user psychology.Design usability that keeps users longer on websites.
+Looking for a program to learn client-side and server-side development? Check out the Treehouse Full-Stack Javascript Bootcamp.
+Front-End vs. Back-End: What are the Key Differences?
+The front-end operations are entirely different from how the back-end works. While these both work together for a full-stack developer, it is important to clarify what each role entails.
+Here are the key differences between front-end and back-end development:
+Front-End DevelopmentBack-End DevelopmentPart of the websiteThis builds the client-side or user interface.This builds the server-side.Main GoalThis makes the user interface (UI) seamless.This strengthens the user experience (UX) — server functionality and front-end credibility.Coding LanguagesHTML, CSS, JavaScriptJava, PHP, Ruby, Python, Node js., C++, REST, GO, JavaScript.FunctionsProvides seamless UI/UX Makes a responsive website designDebugs and tests for optimization Optimizes for mobile-friendlinessCreates reliable webpagesDevelops site database and cloud storageDebugs and troubleshoots appsServer setup and maintenanceWrite APIsCoordinates proper functioning of the front-endAverage Annual Salary$102,347$119,063
+Should I Start With Front-End or Back-End?
+As a full-stack developer, you should start with front-end planning when developing a website or application. 
+It’s easier and more progressive to first structure the UI before tying the knot at the back-end. You should structure and adjust visual concepts first. Then, proceed to address the logical part on the server-side.
+Here’s what happens when you start with the front-end development:
+Your clients can access the design you’re creatingIt’s easier to know what the end design will look likeYou can secure back-end functioning serves a specific front-end function. 
+At the end of the day, what everyone cares about is their view—that is, the front-end. No client or prospective customers will ask to see what the JavaScript for a product page looks like.
+So, it’s important to make sure this image is well designed from the start.
+Users want a good experience overall and this includes:
+How beautiful the site isHow easy it is to navigateHow fast it loadsWhether their requests are processed successfully and on time
+A full-stack developer should always start with the front-end. But, most importantly, ensure that the overall UI/UX experience is applaudable.
+Get Started With Treehouse
+Every developer category — front-end, back-end, or full-stack — is unique since they are skilled in handling different web development functions.
+The full-stack developer, who is a hybrid of the front-end and back-end developer, applies a holistic approach to creating websites with great UI/UX experiences.
+Whether you’re looking to become a professional front-end, back-end, or full-stack developer, Treehouse offers a library of courses and certifications designed for you. Try the Treehouse Techdegree for free today.

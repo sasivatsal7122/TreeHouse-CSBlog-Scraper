@@ -1,0 +1,27 @@
+Title: Coding Adventure: The Travel Bucket List
+
+
+
+Did you know Treehouse courses come with coding adventures? Coding adventures let you practice your skills in an interesting way with an easy-to-show-off output!
+If you already have a Treehouse account, you can access the coding adventure here and get started!
+If you don’t already have an account, check out a sneak peek of the coding challenge here:
+
+
+How to Complete This Code Adventure! 🚀
+You’ve been tasked to create a card component for a travel website. The designer for the company already created some mockups for you. Your challenge is to recreate the provided designs using HTML & CSS.
+The Challenge
+The provided mockups are for mobile (375px) and desktop (1440px) sized screens. You’ll want to be coding this project using the mobile-first approach so you’ll want to start creating the mobile layout and using media queries to make the styling behave differently when the screen size gets at a certain point.
+Mobile FirstFlexboxPseudo Elements
+Extra Credits 🔥
+There are a lot of different ways to accomplish this task. You can use any of the technologies you’ve used up to this point, I’d suggest using this challenge to solidify what you’ve learned or maybe improve on some topics you’re not completely comfortable with. Here are some examples of what you could add:
+Use SassAdd the content Dynamic using JavaScriptAdd some animations or transitions for example on hover for the “Read More”-linkCreate a grid with multiple cardsUse BEM
+The possibilities are endless 😎 Don’t forget to share your end result to Twitter with @treehouse so we can learn from each other’s solutions! 
+Looking forward to seeing what you’ll make of this!
+
+Two Ways to Complete This Code Adventure
+Use Treehouse Workspaces: To complete the Code Adventure in Workspaces, click on the “Launch Workspaces” button, and code directly in the Workspaces editor.Use your own text editor: To complete the Code Adventure in your preferred text editor, click on the “Launch Workspaces” button. Once the Workspace has loaded, click on File, then click on Download Workspace. Locate the download and unzip the files to view them in your preferred text editor.
+Happy Coding! 💻
+
+You can use the Treehouse workspace to do this project really easily! Check out more info here.
+You’ll need to sign in to use the Treehouse workspace, but once you do it’s definitely worth it.
+If you’re not already signed up for Treehouse, you can do it on your own dev environment!

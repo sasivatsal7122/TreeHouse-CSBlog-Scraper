@@ -1,0 +1,35 @@
+Title: Self-Closing Tags in HTML 5 [Guide]
+
+
+
+TL;DR: In HTML5 it is not strictly necessary to close certain HTML tags.
+Tags that aren’t required to have specific closing tags are called self-closing tags. What is a self closing tag? An example of a self closing tag is something like a line break (<br />) or the meta tag (<meta>). This means that the following are both acceptable:
+<meta charset="UTF-8">and<meta charset="UTF-8" />
+Let’s take a look at some more examples. 
+Optional HTML Closing Tags
+Some closing tags are optional, however. The tags are optional because it’s implied that a new tag would not be able to be started without closing it. These are the following:
+
+html, 
+head, 
+body, 
+p, 
+dt, 
+dd, 
+li, 
+ption, 
+thead, 
+th, 
+tbody, 
+tr, 
+td, 
+tfoot, 
+colgroup
+
+There are also tags that are forbidden to be closed: img, input, br, hr, meta, etc.
+Should Optional HTML Tags be Closed?
+Code with closing tags is much more readable and easy to follow. It is much easier to visually inspect a page with well laid out markup. Working with this markup is easier for developers.
+It makes little to no difference to a rendering engine in a browser that can parse markup written this way, so the tags can be considered redundant. For mobile users and browsers that can easily parse these pages, it is not necessary to close the tags. Not doing so can save on bandwidth as well. The problem arises when a browser is unable to parse markup written this way. The poor markup is still there.
+The phrase “Be strict in what you send, but generous in what you receive” continues to apply. If your team is comfortable with that style of markup and the trade-offs then it may be acceptable. If your team prefers clean markup and will be visually inspecting markup most of the time, it is preferable to close tags even when not strictly necessary.
+Get Started With Treehouse
+Want to learn more about the basics of HTML? Check out our Intro to HTML & CSS Guide. Or, start your free trial with a Treehouse Techdegree to polish up your programming skills. 
+

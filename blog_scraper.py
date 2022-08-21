@@ -19,7 +19,7 @@ def scrape_and_save(choosen_blog_link,Title,save_in_folders=False,page_no=None):
     for char in unwanted:
         Title = Title.replace(char," -")
     try:
-        os.mkdir("blog texts/") 
+        os.mkdir("scraped blogs/") 
     except:
         pass
     if save_in_folders==False and page_no==None:

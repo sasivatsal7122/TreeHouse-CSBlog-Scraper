@@ -58,6 +58,7 @@ def driver(page=None,blog=None,scrape_all=False,random=False,multipage=False):
             
         if blog==None and random==True:
             choose_blog = randint(1,len(heading_ls))
+            print(f"Scraping Blog No-{choose_blog} from Page-{page_no}")
         elif blog==None:
             choose_blog = int(input("Enter Blog Number to scrape: "))
         else:
@@ -86,4 +87,4 @@ if __name__=='__main__':
         shutil.rmtree("scraped blogs/")
     except:
         pass
-    driver(page=[5,9],scrape_all=True)
+    driver(page=[2,4],scrape_all=True)

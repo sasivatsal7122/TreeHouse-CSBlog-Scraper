@@ -1,0 +1,49 @@
+Title: Flask vs. Django – Which Framework to Learn First?
+
+
+
+As a beginning coder, you’ve likely heard that Python is known as one of the easiest programming languages to learn. It has a number of web frameworks to help you build functional and scalable websites and applications. 
+Django and Flask are the two most popular web development frameworks that Python developers learn and use: 
+
+Source: Jetbrains Python Developer Survey
+While these Python-based web frameworks have their unique features and differences, it can still be difficult to know which framework to learn first. Keep reading to learn the differences between Flask vs. Django, and which is best to start learning at the beginning of your coding journey.
+What is Flask?
+Flask is a lightweight open source Python web framework that enables developers to easily build functional websites and applications.
+Flask is a micro-framework written in Python that doesn’t depend on libraries and tools. It has essential functionalities to provide tools for creating applications in the Python programming language.
+Here are some features of Flask:
+Development server and debuggerCoherent, well-structured APIs  HTTP and RESTful request handlingFlexibility for configurationEasy to deploy in productionOffers integrated support for unit testingUses Werkzeug and Jinja2 dependenciesProvides templates and WSGI supportCompatible with the Google app engineProvides secure support for front-end cookiesHas clear, lightweight documentation
+Interested in learning Flask? Check out the Treehouse course on Flask Basics.
+Pros & Cons of Flask
+The Python-based web framework, Flask, has several advantages and disadvantages to consider when deciding which to learn first.
+Here are some of the pros of the Flask web framework:
+Flask is lightweight and easy to useSmall codebaseOffers ease and scalability for simple applicationsProvides support for API generationEffective framework for simple software development and maintenance
+Here are some of the cons of the Flask web framework:
+Flask has a small community and thus, it can be hard to solve a problem It does not have features to support large application projectsFlask lacks authentication functionality and is less secure than DjangoIt offers no full-stack experience as it lacks high-level development featuresIt also lacks an ORM for performing CRUD (Create, Read, Update & Delete) operations
+Check out our blog on the Treehouse Flask Basics Course to learn how to get started.
+What is Django?
+Django is a mature open source Python-based web framework for developing high-level software applications.
+The Django framework contains libraries and an extensive suite of features for the full-scale development of complex applications.
+Because of Django’s complexity, one of it’s well-known design principles is DRY, “Don’t Repeat Yourself.” This means it allows you to easily create unique applications without duplications. 
+Here are some features of Django:
+Django has a default template engine Offers comprehensive documentationProvides high security and scalabilityIt is versatile and can be used for many types of web applicationsSupports different content formats like JSON, HTML, and XMLOffers support for multiple character encodings and languagesFunctions well with front-end Javascript frameworks like AngularJS and ReactJSSupports multiple databases
+Pros & Cons of Django
+The full-stack Python-based web framework, Django, also has its own advantages and disadvantages.
+Here are the pros of the Django web framework:
+Django applications include an optional admin site that allows centralized data managementIt provides secure login functionalityDjango supports ORM (Object Relational Mapping) for CRUD operations and complex database queriesIt provides a mature web development experience through its default template engine and other extensive featuresIt comes with great functionality for creating unique applications with duplicating past projectsDjango (2005) has been around longer than Flask (2010) and has a larger community of people who can provide answers to your questions
+The cons of the Django web framework include:
+Django is known to have a steep learning curveSome users say it’s too complicated for simple software projectsIt uses a larger codebase sizeDjango functions are dependent on ORM which requires an in-depth understanding
+Flask vs. Django: Which is Harder?
+Now that you know what these Python frameworks mean and how they function, what about their difficulty levels? 
+Which Python-based web framework is harder — Flask or Django?
+Because Django is a high-level web framework, it has more learning difficulty when compared to Flask.
+This means beginner developers will find exploring Flask to be a more straightforward option than learning Django. 
+Below is a comparison chart to help you understand Django and Flask at a glance:
+FLASKDJANGOFlask is a micro web framework for Python.Django is a high-level Python-based web frameworkThe web framework, Flask, is easy to learn.Django is not as simple as Flask and has a steeper learning curve.There is API support in Flask. Django doesn’t support API.Flask has lightweight documentation.Django has extensible documentation.There is no support for dynamic HTML pages in Flask.There is support for dynamic HTML pages in Django.To use multiple databases in Flask, you need to set up binds.To set up multiple databases on Django, you need to set the default database entry to a custom input.It does not require any library or tools.Django has its own library.Flask has minimalistic features for web development.Django is a full-stack web development framework for Python.Flask has limited administrative tools.Django offers an officially supported administrative tool.Flask provides just the perfect support for simple applications.Django is ideal for large-scale complex projects that require several features.Flask has no default template engine and uses Jinja2 instead.There’s a default template engine in Django to provide full-stack support.Some companies using the Flask framework for backend development include Reddit, Airbnb, Uber, and Netflix.Some companies using the Django framework for backend development include Spotify, Pinterest, Disqus, and Instagram.
+Should I Learn Flask or Django?
+It’s a big question, especially if you’re at the beginning of your coding journey.
+Django is a mature framework for Python, but it is simple to use. However, it poses more learning difficulties in comparison to Flask’s micro-framework.
+While Django is incredibly popular and used amongst experienced developers, beginner developers may have a better learning experience starting with the Flask framework because of its simplicity.
+Because of this, we recommend starting with Flask. After learning Flask’s framework, you’ll have the essential programming skills to create functional websites and applications.
+Once you feel comfortable with Flask’s framework, you can advance to Django to learn how to develop for more complex software projects.
+Getting Started With Treehouse
+Ready to learn? Kickstart your coding journey with Treehouse. Check out the Treehouse Python Courses today to begin learning the Flask framework.
