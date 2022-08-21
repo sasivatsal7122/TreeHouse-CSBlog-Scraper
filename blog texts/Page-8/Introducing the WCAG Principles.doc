@@ -1,0 +1,52 @@
+Title: Introducing the WCAG Principles
+
+
+
+In my  introductory blog post on Accessibility  , I mentioned that the  Web Content Accessibility Guidelines (WCAG)  is broken up into four accessibility principles:
+
+Perceivable
+Operable
+Understandable
+Robust
+
+These four principles are then divided into thirteen accessibility guidelines. Each WCAG guideline offers success criteria you can use to test whether your product is accessible.
+Each success criteria listing is marked as Level A, Level AA, or Level AAA, which describes the level of effort needed by designers and developers to achieve compliance.
+
+ Source:  levelaccess.com 
+
+Level A compliance, such as making sure color isn’t the only means of conveying information, should be easily within reach.
+
+
+Level AA compliance, such as making sure content is legible in both portrait and landscape orientation, requires more effort. But this should be the minimum accessibility standard for online content.
+
+
+Level AAA compliance is described as the gold standard level of accessibility. Meeting AAA guidelines will create the best possible experience for all users.
+
+However, some AAA criteria, like providing sign language interpretation for all prerecorded audio content, require specialized and sometimes expensive resources.
+The WCAG documentation actually doesn’t mandate Level AAA compliance because it is not always possible to satisfy all Level AAA Success Criteria.
+My recommendation? Treat Level AA WCAG compliance as an absolute must-have. If your product doesn’t meet this level of accessibility, your work is unfinished.
+As for Level AAA, apply these standards wherever it’s within your means and abilities to do so.
+With that in mind, let’s take a look at each of the four WCAG principles.
+Source:  Mindstream Interactive
+The Perceivable Principle
+The first WCAG principle, Perceivable, states that
+ Information and user interface components must be presentable to users in ways they can perceive. 
+This principle is all about providing alternative methods of understanding your web content. If users can’t see your content, for example, let them hear it. Or if they can’t hear your content, add text.
+Providing captions and transcripts for audio and video content is covered by the Perceivable principle. Source: paciellogroup.com
+The Operable Principle
+The second WCAG principle, Operable, states that
+ User interface components and navigation must be operable. 
+The Operable principle is all about removing barriers between your user and your content.
+Ensuring web content can be navigated using only a keyboard is covered by the Operable principle. Source:  w3.org 
+The Understandable Principle
+The third WCAG principle, Understandable, states that
+ Information and the operation of user interface must be understandable. 
+The Understandable principle is about using plain language, making errors easy to spot and correct, and making online content consistent and predictable to navigate.
+Helping users avoid and correct mistakes is covered by the Understandable principle. Source: Baymard InstituteThe Robust Principle
+The fourth WCAG principle, Robust, states that
+ Content must be robust enough that it can be interpreted by a wide variety of user agents, including assistive technologies. 
+Meeting the Robust principle guidelines mostly means marking up your content properly using semantic HTML, as well as alerting the browser whenever you’ve used JavaScript to dynamically update content.
+Moving forward
+Understanding the four WCAG principles is just the beginning. In future posts, we’ll examine each of the guidelines that form these principles, starting with Perceivable guideline 1.1:  Text Alternatives  .
+ 
+Become fully versed in accessibility design with a UX certification from Treehouse.

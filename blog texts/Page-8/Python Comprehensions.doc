@@ -1,0 +1,63 @@
+Title: Python Comprehensions
+
+
+
+Are you looking to step up your Python game? Comprehensions are a great way to reduce the amount of code needed to create new sequences (like lists, sets, and dictionaries) using a sequence that has already been defined. While these can be useful and powerful, it is also easy to create code that is harder to read when reduced to one line. In those instances, it is better to leave it in its multiline form for readability.
+Comprehensions are a tool that can be used to do more than one thing. You can create sequences and use it for mapping ( map() ) or filtering ( filter() ). This is why comprehensions are sometimes considered more Pythonic than other methods.
+*Follow along in Treehouse Workspaces or an IDE of your choice. The information will stick better if you code along and try things out as you go through this post. Python 3+ is recommended.
+List Comprehensions in Python
+Let’s look at a simple numbers example. Below, the numbers 0-9 are appended to an empty list.
+
+In this example, it takes three lines of code, but what if it was turned into a list comprehension?
+
+Just one line. Cool, right!? Comprehensions follow this logic:
+
+This means that each member in the iterable has an expression applied to it and these values are added to our new list. 
+The expression (first i) can be the member itself (like the first i in our example above), a function, or an expression that returns a value. 
+A member (second i) is an object or value from the iterable. 
+The iterable (range(10)) can be a list, dictionary, set, sequence, generator, or really any object that’s able to return one value at a time.
+While you’re probably already seeing how this can be useful to incorporate in your next Python project, let’s take it to the next level. Below is a list of circle radiuses we can use to create a list of areas.
+
+
+Expression: radius * radius * math.pi     Member: radius     Iterable: circle_radius
+Python Expressions as Functions
+What if the area of a circle expression was turned into a function? This might be a bit more readable, and our comprehension will still work.
+
+Expression: area_circle(radius)     Member: radius     Iterable: circle_radius
+Conditionals
+Nice! Now, what if you only want to apply your expression to some values? How do you incorporate conditionals? Let’s look at a new example. Here are some recipe cooking times, and our new list will contain only the times that are less than 30.
+
+Expression: time Member: time     Iterable: cook_times     Conditional: time < 30
+Including conditionals, our comprehension template now looks like this:
+
+Conditionals at the end of the statement filter your iterable by checking each member. If the conditional is True, the expression is then applied and the member is added to your new list.
+Python Conditionals as Functions
+Similarly to how we used a function in an earlier example to turn our radiuses into areas, you can also use a function to hold conditional logic.
+
+Expression: time     Member: time     Iterable: cook_times     Conditional: less_than_30(time)
+Taking Conditionals Further
+One question you may be asking yourself, what if I want to change values during my conditional logic? How does that work? In this instance, the best practice is to move the conditional towards the beginning of the statement like this:
+
+The best way to see the difference is to look at an example.
+
+*All Treehouse pets are the best pets. 🙂
+Expression: pet     Conditional: if pet == ‘Jethro’ else ‘Jethro’     Member: pet     Iterable: treehouse_pets
+The above code is using a conditional to change all values that aren’t ‘Jethro’ to be ‘Jethro’. She is the best, though I may be biased.
+Silliness aside, if this is starting to get complicated, you can move the expression and conditional logic into a function to help break things up a bit.
+
+Expression (& Conditional): get_best_pet(pet)    Member: pet    Iterable: treehouse_pets
+Set Comprehensions for Python
+Set comprehensions work almost exactly the same in Python as list comprehensions. The big difference is that sets cannot contain duplicates. If we convert our last example to create a set instead of a list, the output will change since we had many duplicates of ‘Jethro’. Try it out yourself:
+
+Expression (& Conditional): get_best_pet(pet)    Member: pet    Iterable: treehouse_pets
+The basic set template is then the same except with curly brackets instead of square brackets.
+
+Dictionary Comprehensions for Python
+If lists and sets follow the same patterns, what’s the change for dictionaries? Well, dictionaries need key-value pairs, so in your statement, you will need to include a key to go along with the value you want to add to your new dictionary. Everything else works the same way.
+
+Let’s use the area of a circle example from earlier. The radius can be used as a key (remember strings, integers, and more can be used as a key) and the area as the value.
+
+Key: radius     Expression: area_circle(radius)    Member: radius    Iterable: range(1,6)
+Conclusions
+Like I stated at the beginning, Python comprehensions can be powerful and a great way to write more Pythonic code, but it can create more complicated code at times, too. Use your judgment. If a comprehension is harder to read than the code written out line-by-line, then you should consider keeping its multiline form instead. Writing Python code that you and your team can understand and use is more important than saving a couple of lines of code.
+I hope learning about Python comprehensions has gotten you excited to try them out for yourself. The next time you’re writing a for loop, map(), or filter() in your code, try to turn it into a comprehension. The best way to solidify your new knowledge is to try the different types of comprehensions. Use them in your next project or refactor (improving written code) an old one. 

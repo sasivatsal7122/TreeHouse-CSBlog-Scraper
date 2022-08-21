@@ -1,0 +1,32 @@
+Title: WCAG 1.2: Time-based Media
+
+
+
+The second WCAG Guideline, Time-based Media, is part of the Perceivable principle and covers providing alternatives for audio and video content.
+Accessible Podcasts
+A text transcript can make audio-only content like a podcast accessible to deaf and hard-of-hearing users, as well as users with Auditory Processing Disorder, which refers to challenges not with hearing but how the brain understands speech. Providing transcripts for audio-only content meets Level A accessibility compliance.
+Providing Captions
+The same users listed above rely on captions to understand videos with sound. Providing captions on prerecorded videos will satisfy Level A WCAG compliance, while captions for live audio are required to meet Level AA.
+Captions can be manually added to any YouTube video, and captioning services are available to assist with prerecorded and live video. Either way, the most effective captions should include
+
+Double-checking the captions for accuracy.
+Making sure caption text is legible. An opaque or semi-transparent black background with white or yellow text will stand out against video content.
+No more than two lines of text at once.
+Labeling dialogue when a video contains multiple speakers, or when it’s unclear who is speaking.
+
+
+Treehouse’s captions use white text on a black background. The captions are also draggable, so users can move the captions when they cover important details onscreen.
+Audio Descriptions and Text Transcripts
+When a video contains sound, the audio track is sometimes sufficient to understand the video. Examples include a video of a person giving a speech or being interviewed. In these cases, no additional description is necessary.
+At other times, the onscreen visuals don’t match the audio at all. In the below trailer from Disney’s Frozen, there’s plenty of onscreen action even though the characters hardly speak.
+
+When this happens, Audio Descriptions of the visuals must be provided to make the video accessible to blind users. The trailer for Frozen contains an audio description track describing onscreen actions, settings, and context while the characters aren’t speaking. Audio description tracks satisfy Level AA accessibility compliance for prerecorded video.
+A detailed text transcript including descriptions of visual context, actions, and expressions of actors would satisfy Level AAA accessibility compliance. A text transcript benefits users with disabilities related to both vision and hearing, as they can access the transcript using a refreshable braille display.
+Extended Audio Descriptions
+When dealing with dialogue-heavy video, there might not be adequate time to insert meaningful descriptions. Providing Extended Video Descriptions means pausing the video to allow for additional descriptions of what is happening on screen.
+
+Extended Audio Descriptions satisfy Level AAA accessibility compliance, which means compliance is not technically required by the WCAG. But providing extended descriptions where possible will make your video content more meaningful to blind users.
+Sign Language Interpretation
+Users who communicate using sign language sometimes have a limited reading ability. Providing sign language interpretation, as the above video from EndTheCycle does, satisfies Level AAA accessibility compliance by making prerecorded video easier to comprehend for such users, rather than forcing them to read captions.
+Source: Tips on using Zoom with a Sign Language Interpreter
+Although it’s not covered by the WCAG, sign language interpretation is also helpful for live video presentations on platforms such as Zoom. Unlike captions, sign language interpretation allows two-way communication between users whose speaking abilities are limited and non-signing individuals.

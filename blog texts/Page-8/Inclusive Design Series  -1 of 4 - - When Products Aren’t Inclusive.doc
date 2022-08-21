@@ -1,0 +1,19 @@
+Title: Inclusive Design Series (1 of 4): When Products Aren’t Inclusive
+
+
+
+When you design a product, it’s natural that your own biases will impact it. Biases are a feature of human cognition that we cannot control, but we can control how we act upon them. As a cis-gendered white woman, my perspective is shaped by my identity and my lived experiences. While I can look at personas and try to imagine how another person might experience a product, I can’t truly know until I observe others using the product and hear their thoughts.
+When Products Aren’t Inclusive
+Without a broadened perspective, products will cause unforeseen impacts. We’ve seen how artificial intelligence amplifies existing biases and inequalities. In 2015, Google Photos labeled black and brown people as non-human animals. The image labeling technology wasn’t trained well enough to identify non-white skin tones. University of Virginia computer science professor Vicente Ordóñez noticed that image-recognition software picks up biases in training data, and then perpetuates those biases at a larger scale, deepening existing inequalities. It’s up to us as product creators to ensure the products we build are equitable and inclusive.
+Let’s look at Facebook as another example. In August 2012, Facebook determined there were 83 million fake accounts. This revelation cast doubt on the legitimacy of Facebook’s massive user base and lowered its share price. To combat this, Facebook created a naming policy and monitoring system to detect and suspend people who they suspect to not have a “real name” on their account. As a result, there has been widespread discrimination against many ethnic groups whose real names do not comply with the policy; they had too many words, too many capital letters, or first names that consist of initials. It also has affected transgender people who were banned for using their adopted names or pseudonyms. In December 2015, Facebook announced that those with “special circumstances” (such as being a particular ethnicity, transgender, physically threatened, or stalked) can check a box, so their case is handled differently by the support team. However, the Electronic Frontier Foundation criticized this solution, pointing out that the most vulnerable users are forced to reveal intimate details of their personal lives. If Facebook were to include more diverse voices into the user research and design/development, this discrimination could have been prevented.
+On Twitter, there is a list feature that allows users to compile lists of Twitter accounts. Best case, this can be used to create lists of UX Designers you admire. But unfortunately, this feature is used to abuse and threaten people. A recent Twitter thread brought it to my attention that abusers use the feature to coordinate harassment against women. On Twitter, you can actually see the lists you’ve been added to, and some have very hurtful titles. Once again, including more diverse perspectives during product development could have prevented this, as systems could be put in place to prevent abusive lists from being created, and on a wider scale, to prevent abuse on the platform itself.
+The Path to Inclusive Products
+Inclusive design requires a diverse team who has the support from leadership to make ethical product decisions. It also requires user research that captures diverse perspectives. Empathy is a guiding force in user research today. Naturally, some think empathy is the answer. Well, I’ll examine the limitations of empathy in the next part of this series.
+Other posts in the Inclusive Design Series:
+
+The Limitations (and Possibilities) of Empathy
+The Importance of User Research
+Design Ethics – blog post
+Design Ethics – Treehouse course
+
+Learn how to create accessible designs that will make you stand out among the applicant pool with a Treehouse Techdegree.

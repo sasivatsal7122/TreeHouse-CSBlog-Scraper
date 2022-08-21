@@ -1,0 +1,15 @@
+Title: Introducing: PHP with Laravel Techdegree
+
+
+
+Hi 👋🏼, my name is Jonathan Barrios, and I’m a full-stack web developer and an instructor here at Treehouse. I’m excited to announce the first of four Laravel courses being released over the next several months as part of the new PHP with Laravel Techdegree! When I started at Treehouse, I met with the PHP Techdegree team—Dave McFarland, Jennifer Nordell, and Amber Stevens—for bi-weekly curriculum scoping and sequencing sessions.
+What content did students struggle with? Which courses needed improving? The curriculum scoping and sequencing sessions allowed us to improve the focus of new PHP with Laravel Techdegree content by adding four brand-new Laravel courses with matching projects and an MVC workshop. These new courses include Laravel Basics and Build a REST API.
+In the Laravel Basics course, you’ll build a replica of the Treehouse library:
+
+The most exciting changes in the new PHP with Laravel Techdegree are the brand-new Laravel projects such as Build a Pet Adoption Website, TODO API, and Build a Blog with Laravel. 
+Love dogs? You’ll also build a snazzy Laravel Pet Adoption website:
+
+
+To empower our students to build the latest and most competitive web applications, we’ve replaced the Slim microframework with Laravel, added three new projects, and created a workshop on MVC, a design pattern for building modern web applications. Students will gain a solid foundation of PHP but also a basic understanding of the MVC design pattern along with the ability to produce their own Laravel applications—such as REST APIs, and personal blogs with user authentication.
+
+We are very excited and can’t wait for you to experience the new PHP with Laravel Techdegree! 

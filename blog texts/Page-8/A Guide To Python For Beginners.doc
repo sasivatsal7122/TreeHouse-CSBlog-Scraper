@@ -1,0 +1,43 @@
+Title: A Guide To Python For Beginners
+
+
+
+A Guide to Python for Beginners
+Python is one of the first languages many programmers learn as it is both simple and versatile. Python syntax is said to resemble English, which speaks to how easy it is to read and write. 
+While Python itself is powerful, it can also be paired with a range of packages which will allow you to extend the language even further. The massive array of packages available span subjects like web development, data science and machine learning. 
+You may have been told Python is just a language for beginners, but that’s not necessarily true: professionals use it in the field every day.
+Before you can go on to building complicated apps in Python, you must master the fundamentals. All it takes is the right investment of your time and energy. You’re in for a wild ride learning Python, but with the right courses you’ll be a master in just a few months.
+Python Strings
+Strings are an important part of any program. They allow you to work with text in your code. With a string, you can reverse its contents, change words, add words and more.
+Strings and Operators
+In this lesson, we walk through how to use string methods and concatenation in Python. This will allow you to manipulate the content of strings in your Python code.
+String Methods
+Often, when you’re working with strings, you’ll use a few specific common methods. This tutorial covers them and how they’re used.
+Python Conditionals
+Variables and conditionals are essential parts of programming. Variables allow you to store values in your code. Conditionals help you control when certain lines of your code should be executed and when they should be skipped.
+Booleans in Python
+Boolean variables are important in nearly every kind of programming—this video explains why they are one of the foundations of Python.
+If, Else, and Elif
+The “if” statement is a feature of almost every programming language. This statement will evaluate an expression and if that expression is true, the code in the statement will be executed. Else and Elif are two other conditional statements Python uses.
+Python Comparisons
+In addition to the above statements, Python also uses comparison statements to evaluate data. You can harness the power of comparisons to work with data—and so much more.
+Python Functions and Looping
+Python functions and loops are the key to many of the language’s most powerful uses. These tutorials go in-depth on functions and loops, two Python programming constructs that lead to clean, reusable, and maintainable code.
+Python Functions
+This video explores how to create functions in Python—what syntax to use, how to put it all together, and common uses and scenarios for Python functions.
+Exceptions In Your Code
+When you’re programming in any coding language, you’ll encounter unexpected situations. Here’s a starter guide on how to handle exceptions using Python. 
+While Loops for Python
+Once you create a useful function, it’s best practice to loop it rather than have it typed out a bunch of times. One of the most common and simplest types of Python loops is “while.” Here’s what it does, and how to set it up.
+More Advanced Python Tutorials
+If you already knew some of the concepts mentioned above, that’s a good sign – it means you are on your way to mastery and can handle our advanced tutorials. Here are a few if you’re looking for a challenge:
+
+Python modeling via an ORM
+Data entry for a Python app
+Viewing and searching database entries
+Writing and running doctests in Python
+Quantitative assertions
+
+We’ve only scratched the surface of the Python programming language in this guide. If you’re looking to take the next step on your coding journey, check out the entirety of our Beginning Python Track.
+For more committed learners, we offer an immersive, project-based course designed to take you from zero-to-60. The Python Techdegree is a structured online learning program that will prepare you for a career in the tech industry. Learn in-demand skills, build awesome projects, and connect with a community via the Techdegree Slack.
+James Gallagher is a writer at Career Karma where he focuses on coding tutorials and technical articles. Find Treehouse’s page on Career Karma here. 
